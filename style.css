@@ -1,6 +1,11 @@
 .container {
 	margin: 30px auto;
 }
+#carousel {
+	width: 407px;
+	overflow: hidden;
+	position: absolute;
+}
 #carousel ul {
 	width: 2050px;
 	margin: 0;
